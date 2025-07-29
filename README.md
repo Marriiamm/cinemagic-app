@@ -1,4 +1,4 @@
-# test_splashh
+# Cinemagic App
 
 A new Flutter project.
 
